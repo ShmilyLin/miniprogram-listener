@@ -1,5 +1,6 @@
 # miniprogram-listener
-微信小程序的全局广播（通知）扩展
+微信小程序的全局广播（通知）扩展。
+
 仿照Vue的$on、$once、$emit、$off写的在小程序中的全局广播通知扩展。
 
 # 安装
