@@ -41,7 +41,7 @@ __参数：__
   * key[String|Number]: 监听的识别字符串
   * callback[Function]: 监听的回调函数
 
-```
+```js
 // app.js
 App({
   onLaunch: function() {
