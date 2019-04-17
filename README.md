@@ -134,7 +134,7 @@ App({
 __参数：__
 
   * key[String|Number]: 监听的识别字符串
-  * [...args]: 传入的参数
+  * args: 传入的参数（可选）
   
 ```js
 // app.js
